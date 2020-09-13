@@ -1,5 +1,5 @@
 {
-    "name": "teohhanhui/stubs-mongodb",
+    "name": "soyuka/stubs-mongodb",
     "description": "ext-mongodb stubs taken from https://github.com/JetBrains/phpstorm-stubs",
     "license": "Apache-2.0",
     "provide": {
